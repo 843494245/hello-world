@@ -1,0 +1,7 @@
+#include <iostream>
+use namespace std;
+int main()
+{
+cout<<"holle world"<<endl;
+return 0;
+}
